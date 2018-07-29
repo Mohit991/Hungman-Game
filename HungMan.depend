@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509207692 source:d:\programs\hungman\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<stdio.h>
+
